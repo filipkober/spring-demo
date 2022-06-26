@@ -15,7 +15,7 @@
 9. Finally start the .jar file in the `target` directory: `java -jar target/spring-boot-kafka-example-1.0-SNAPSHOT.jar`
 
 # Usage:
-#### The api endpoint is: `http://localhost:8080/api/v1`
+#### The api URL is: `http://localhost:8080/api/v1`
 This is a simple demo app which has the ability to create a new user and read users, depending on your role.
 
 ### Available endpoints for user roles:
